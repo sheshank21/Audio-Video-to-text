@@ -1,4 +1,4 @@
-# Audio-Video-to-Text
+# Audio/Video-to-Text
 
 This project converts **audio and video files into text** using Python.  
 It supports transcription and summarization of content using AI/ML APIs.
