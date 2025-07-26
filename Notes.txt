@@ -1,0 +1,30 @@
+# important OS library components
+os.path.exists(path)
+Checks if a file or directory exists.
+
+*os.path.join(path, paths)
+Joins one or more path components intelligently.
+
+os.path.basename(path)
+Returns the file name from a path.
+
+os.path.dirname(path)
+Returns the directory name from a path.
+
+os.listdir(path)
+Lists all files and directories in the given path.
+
+os.makedirs(path, exist_ok=False)
+Creates directories recursively.
+
+os.rename(src, dst)
+Renames or moves a file or directory.
+
+os.remove(path)
+Deletes a file.
+
+os.getcwd()
+Returns the current working directory.
+
+os.environ
+A mapping object representing the environment variables.

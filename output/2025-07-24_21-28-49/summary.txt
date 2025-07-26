@@ -1,0 +1,2 @@
+Summary:
+Vadim Gudkov: We are working on a project to migrate data from teradata to GCP. Gudkov: The project involves moving multiple, multiple data sources to GCP with multiple steps that are very involved. Gudkov: This is very involved jobs with dozens of steps that use multiple, multiple dataSources.
