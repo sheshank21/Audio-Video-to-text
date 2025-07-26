@@ -37,7 +37,7 @@ def summarize_text(text):
 
 if __name__ == "__main__":
     print("Starting audio extraction...")
-    input_folder = '/Users/sheshankjanige/24Project/input/'
+    input_folder = 'input/'
     print("Checking for files in input folder...")
     supported_exts = ('.mp4', '.mov', '.avi', '.mkv', '.wav', '.flac', '.aiff')
     files = [
@@ -78,7 +78,7 @@ if __name__ == "__main__":
         exit(1)
     
     # Create output folder if it does not exist
-    output_folder = '/Users/sheshankjanige/24Project/output/'
+    output_folder = 'output/'
     current_time = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     output_folder = os.path.join(output_folder, current_time)
     if not os.path.exists(output_folder):
