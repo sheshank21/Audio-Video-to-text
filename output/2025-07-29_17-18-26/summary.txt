@@ -1,0 +1,15 @@
+Summary:
+Key points:
+
+* The speaker is discussing the migration of data from Teradata to GCP and the complexity of the process.
+* The speaker's team has been working with various other teams, but they don't have enough hours to complete the research required for the migration.
+* The speaker's manager is out for two weeks, and they are scheduling a call in a few weeks to discuss the project further with the person who reports to them.
+
+Tone:
+The tone of the speech is professional and matter-of-fact. The speaker is clearly explaining the situation and the next steps that need to be taken. There is a sense of urgency and complexity involved in the migration process, but the speaker is addressing these concerns in a logical and organized manner.
+
+Action items:
+
+* Schedule a call with the person who reports to the speaker's manager to discuss the project further.
+* Document the migration process in detail.
+* Find a solution for the complexity involved in the migration process.

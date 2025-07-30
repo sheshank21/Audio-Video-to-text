@@ -13,7 +13,7 @@ It supports transcription and summarization of content using AI/ML APIs.
 - Python 3
 - MoviePy / FFMPEG (for audio extraction)
 - Speech-to-text APIs (Whisper / Google Cloud)
-- OpenAI for summarization
+- Ollama for summarization
 
 ## How to Run
 1. Clone the repository:
